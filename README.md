@@ -1,0 +1,1 @@
+# MyConfigNeovimWindows10
